@@ -1667,6 +1667,7 @@ sample=pizz\pizz_a3_pd.wav
 lokey=56
 hikey=60
 seq_length=4
+seq_position=4
 pitch_keycenter=57
 
 //========================
