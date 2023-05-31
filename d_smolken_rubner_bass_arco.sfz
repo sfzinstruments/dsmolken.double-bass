@@ -11,7 +11,7 @@ bend_down=-1200
 ampeg_release=0.800
 
 <region>
-sample=arco\arco_c1_pp_down.wav
+sample=arco\arco_c1_pp_down.flac
 lokey=12
 hikey=24
 hivel=15
@@ -20,7 +20,7 @@ pitch_keycenter=24
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_c1_pp_up.wav
+sample=arco\arco_c1_pp_up.flac
 lokey=12
 hikey=24
 hivel=15
@@ -30,7 +30,7 @@ pitch_keycenter=24
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_c1_p_down.wav
+sample=arco\arco_c1_p_down.flac
 lokey=12
 hikey=24
 lovel=16
@@ -40,7 +40,7 @@ pitch_keycenter=24
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_c1_p_up.wav
+sample=arco\arco_c1_p_up.flac
 lokey=12
 hikey=24
 lovel=16
@@ -51,7 +51,7 @@ pitch_keycenter=24
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_c1_mf_down.wav
+sample=arco\arco_c1_mf_down.flac
 lokey=12
 hikey=24
 lovel=60
@@ -61,7 +61,7 @@ pitch_keycenter=24
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_c1_mf_up.wav
+sample=arco\arco_c1_mf_up.flac
 lokey=12
 hikey=24
 lovel=60
@@ -72,7 +72,7 @@ pitch_keycenter=24
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_c1_f_down.wav
+sample=arco\arco_c1_f_down.flac
 lokey=12
 hikey=24
 lovel=103
@@ -82,7 +82,7 @@ pitch_keycenter=24
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_c1_f_up.wav
+sample=arco\arco_c1_f_up.flac
 lokey=12
 hikey=24
 lovel=103
@@ -93,7 +93,7 @@ pitch_keycenter=24
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_c1_ff_down.wav
+sample=arco\arco_c1_ff_down.flac
 lokey=12
 hikey=24
 lovel=125
@@ -101,7 +101,7 @@ seq_length=2
 pitch_keycenter=24
 
 <region>
-sample=arco\arco_c1_ff_up.wav
+sample=arco\arco_c1_ff_up.flac
 lokey=12
 hikey=24
 lovel=125
@@ -110,7 +110,7 @@ seq_position=2
 pitch_keycenter=24
 
 <region>
-sample=arco\arco_eb1_pp_down.wav
+sample=arco\arco_eb1_pp_down.flac
 lokey=25
 hikey=27
 hivel=15
@@ -119,7 +119,7 @@ pitch_keycenter=27
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_eb1_pp_up.wav
+sample=arco\arco_eb1_pp_up.flac
 lokey=25
 hikey=27
 hivel=15
@@ -129,7 +129,7 @@ pitch_keycenter=27
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_eb1_p_down.wav
+sample=arco\arco_eb1_p_down.flac
 lokey=25
 hikey=27
 lovel=16
@@ -139,7 +139,7 @@ pitch_keycenter=27
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_eb1_p_up.wav
+sample=arco\arco_eb1_p_up.flac
 lokey=25
 hikey=27
 lovel=16
@@ -150,7 +150,7 @@ pitch_keycenter=27
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_eb1_mf_down.wav
+sample=arco\arco_eb1_mf_down.flac
 lokey=25
 hikey=27
 lovel=60
@@ -160,7 +160,7 @@ pitch_keycenter=27
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_eb1_mf_up.wav
+sample=arco\arco_eb1_mf_up.flac
 lokey=25
 hikey=27
 lovel=60
@@ -171,7 +171,7 @@ pitch_keycenter=27
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_eb1_f_down.wav
+sample=arco\arco_eb1_f_down.flac
 lokey=25
 hikey=27
 lovel=103
@@ -181,7 +181,7 @@ pitch_keycenter=27
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_eb1_f_up.wav
+sample=arco\arco_eb1_f_up.flac
 lokey=25
 hikey=27
 lovel=103
@@ -192,7 +192,7 @@ pitch_keycenter=27
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_eb1_ff_down.wav
+sample=arco\arco_eb1_ff_down.flac
 lokey=25
 hikey=27
 lovel=125
@@ -200,7 +200,7 @@ seq_length=2
 pitch_keycenter=27
 
 <region>
-sample=arco\arco_eb1_ff_up.wav
+sample=arco\arco_eb1_ff_up.flac
 lokey=25
 hikey=27
 lovel=125
@@ -209,7 +209,7 @@ seq_position=2
 pitch_keycenter=27
 
 <region>
-sample=arco\arco_f1_pp_down.wav
+sample=arco\arco_f1_pp_down.flac
 lokey=28
 hikey=29
 hivel=15
@@ -218,7 +218,7 @@ pitch_keycenter=29
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_f1_pp_up.wav
+sample=arco\arco_f1_pp_up.flac
 lokey=28
 hikey=29
 hivel=15
@@ -228,7 +228,7 @@ pitch_keycenter=29
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_f1_p_down.wav
+sample=arco\arco_f1_p_down.flac
 lokey=28
 hikey=29
 lovel=16
@@ -238,7 +238,7 @@ pitch_keycenter=29
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_f1_p_up.wav
+sample=arco\arco_f1_p_up.flac
 lokey=28
 hikey=29
 lovel=16
@@ -249,7 +249,7 @@ pitch_keycenter=29
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_f1_mf_down.wav
+sample=arco\arco_f1_mf_down.flac
 lokey=28
 hikey=29
 lovel=60
@@ -259,7 +259,7 @@ pitch_keycenter=29
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_f1_mf_up.wav
+sample=arco\arco_f1_mf_up.flac
 lokey=28
 hikey=29
 lovel=60
@@ -270,7 +270,7 @@ pitch_keycenter=29
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_f1_f_down.wav
+sample=arco\arco_f1_f_down.flac
 lokey=28
 hikey=29
 lovel=103
@@ -280,7 +280,7 @@ pitch_keycenter=29
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_f1_f_up.wav
+sample=arco\arco_f1_f_up.flac
 lokey=28
 hikey=29
 lovel=103
@@ -291,7 +291,7 @@ pitch_keycenter=29
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_f1_ff_down.wav
+sample=arco\arco_f1_ff_down.flac
 lokey=28
 hikey=29
 lovel=125
@@ -299,7 +299,7 @@ seq_length=2
 pitch_keycenter=29
 
 <region>
-sample=arco\arco_g1_ff_up.wav
+sample=arco\arco_g1_ff_up.flac
 lokey=28
 hikey=31
 lovel=125
@@ -308,7 +308,7 @@ seq_position=2
 pitch_keycenter=31
 
 <region>
-sample=arco\arco_g1_pp_down.wav
+sample=arco\arco_g1_pp_down.flac
 lokey=30
 hikey=31
 hivel=15
@@ -317,7 +317,7 @@ pitch_keycenter=31
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_g1_pp_up.wav
+sample=arco\arco_g1_pp_up.flac
 lokey=30
 hikey=31
 hivel=15
@@ -327,7 +327,7 @@ pitch_keycenter=31
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_g1_p_down.wav
+sample=arco\arco_g1_p_down.flac
 lokey=30
 hikey=31
 lovel=16
@@ -337,7 +337,7 @@ pitch_keycenter=31
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_g1_p_up.wav
+sample=arco\arco_g1_p_up.flac
 lokey=30
 hikey=31
 lovel=16
@@ -348,7 +348,7 @@ pitch_keycenter=31
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_g1_mf_down.wav
+sample=arco\arco_g1_mf_down.flac
 lokey=30
 hikey=31
 lovel=60
@@ -358,7 +358,7 @@ pitch_keycenter=31
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_g1_mf_up.wav
+sample=arco\arco_g1_mf_up.flac
 lokey=30
 hikey=31
 lovel=60
@@ -369,7 +369,7 @@ pitch_keycenter=31
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_g1_f_down.wav
+sample=arco\arco_g1_f_down.flac
 lokey=30
 hikey=31
 lovel=103
@@ -379,7 +379,7 @@ pitch_keycenter=31
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_g1_f_up.wav
+sample=arco\arco_g1_f_up.flac
 lokey=30
 hikey=31
 lovel=103
@@ -390,7 +390,7 @@ pitch_keycenter=31
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_g1_ff_down.wav
+sample=arco\arco_g1_ff_down.flac
 lokey=30
 hikey=31
 lovel=125
@@ -398,7 +398,7 @@ seq_length=2
 pitch_keycenter=31
 
 <region>
-sample=arco\arco_bb1_pp_down.wav
+sample=arco\arco_bb1_pp_down.flac
 lokey=32
 hikey=34
 hivel=15
@@ -407,7 +407,7 @@ pitch_keycenter=34
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_bb1_pp_up.wav
+sample=arco\arco_bb1_pp_up.flac
 lokey=32
 hikey=34
 hivel=15
@@ -417,7 +417,7 @@ pitch_keycenter=34
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_bb1_p_down.wav
+sample=arco\arco_bb1_p_down.flac
 lokey=32
 hikey=34
 lovel=16
@@ -427,7 +427,7 @@ pitch_keycenter=34
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_bb1_p_up.wav
+sample=arco\arco_bb1_p_up.flac
 lokey=32
 hikey=34
 lovel=16
@@ -438,7 +438,7 @@ pitch_keycenter=34
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_bb1_mf_down.wav
+sample=arco\arco_bb1_mf_down.flac
 lokey=32
 hikey=34
 lovel=60
@@ -448,7 +448,7 @@ pitch_keycenter=34
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_bb1_mf_up.wav
+sample=arco\arco_bb1_mf_up.flac
 lokey=32
 hikey=34
 lovel=60
@@ -459,7 +459,7 @@ pitch_keycenter=34
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_bb1_f_down.wav
+sample=arco\arco_bb1_f_down.flac
 lokey=32
 hikey=34
 lovel=103
@@ -469,7 +469,7 @@ pitch_keycenter=34
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_bb1_f_up.wav
+sample=arco\arco_bb1_f_up.flac
 lokey=32
 hikey=34
 lovel=103
@@ -480,7 +480,7 @@ pitch_keycenter=34
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_bb1_ff_down.wav
+sample=arco\arco_bb1_ff_down.flac
 lokey=32
 hikey=34
 lovel=125
@@ -488,7 +488,7 @@ seq_length=2
 pitch_keycenter=34
 
 <region>
-sample=arco\arco_bb1_ff_up.wav
+sample=arco\arco_bb1_ff_up.flac
 lokey=32
 hikey=34
 lovel=125
@@ -497,7 +497,7 @@ seq_position=2
 pitch_keycenter=34
 
 <region>
-sample=arco\arco_c2_pp_down.wav
+sample=arco\arco_c2_pp_down.flac
 lokey=35
 hikey=36
 hivel=15
@@ -506,7 +506,7 @@ pitch_keycenter=36
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_c2_pp_up.wav
+sample=arco\arco_c2_pp_up.flac
 lokey=35
 hikey=36
 hivel=15
@@ -516,7 +516,7 @@ pitch_keycenter=36
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_c2_p_down.wav
+sample=arco\arco_c2_p_down.flac
 lokey=35
 hikey=36
 lovel=16
@@ -526,7 +526,7 @@ pitch_keycenter=36
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_c2_p_up.wav
+sample=arco\arco_c2_p_up.flac
 lokey=35
 hikey=36
 lovel=16
@@ -537,7 +537,7 @@ pitch_keycenter=36
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_c2_mf_down.wav
+sample=arco\arco_c2_mf_down.flac
 lokey=35
 hikey=36
 lovel=60
@@ -547,7 +547,7 @@ pitch_keycenter=36
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_c2_mf_up.wav
+sample=arco\arco_c2_mf_up.flac
 lokey=35
 hikey=36
 lovel=60
@@ -558,7 +558,7 @@ pitch_keycenter=36
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_c2_f_down.wav
+sample=arco\arco_c2_f_down.flac
 lokey=35
 hikey=36
 lovel=103
@@ -568,7 +568,7 @@ pitch_keycenter=36
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_c2_f_up.wav
+sample=arco\arco_c2_f_up.flac
 lokey=35
 hikey=36
 lovel=103
@@ -579,7 +579,7 @@ pitch_keycenter=36
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_c2_ff_down.wav
+sample=arco\arco_c2_ff_down.flac
 lokey=35
 hikey=36
 lovel=125
@@ -587,7 +587,7 @@ seq_length=2
 pitch_keycenter=36
 
 <region>
-sample=arco\arco_c2_ff_up.wav
+sample=arco\arco_c2_ff_up.flac
 lokey=35
 hikey=36
 lovel=125
@@ -596,7 +596,7 @@ seq_position=2
 pitch_keycenter=36
 
 <region>
-sample=arco\arco_d2_pp_down.wav
+sample=arco\arco_d2_pp_down.flac
 lokey=37
 hikey=38
 hivel=15
@@ -605,7 +605,7 @@ pitch_keycenter=38
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_d2_pp_up.wav
+sample=arco\arco_d2_pp_up.flac
 lokey=37
 hikey=38
 hivel=15
@@ -615,7 +615,7 @@ pitch_keycenter=38
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_d2_p_down.wav
+sample=arco\arco_d2_p_down.flac
 lokey=37
 hikey=38
 lovel=16
@@ -625,7 +625,7 @@ pitch_keycenter=38
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_d2_p_up.wav
+sample=arco\arco_d2_p_up.flac
 lokey=37
 hikey=38
 lovel=16
@@ -636,7 +636,7 @@ pitch_keycenter=38
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_d2_mf_down.wav
+sample=arco\arco_d2_mf_down.flac
 lokey=37
 hikey=38
 lovel=60
@@ -646,7 +646,7 @@ pitch_keycenter=38
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_d2_mf_up.wav
+sample=arco\arco_d2_mf_up.flac
 lokey=37
 hikey=38
 lovel=60
@@ -657,7 +657,7 @@ pitch_keycenter=38
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_d2_f_down.wav
+sample=arco\arco_d2_f_down.flac
 lokey=37
 hikey=38
 lovel=103
@@ -667,7 +667,7 @@ pitch_keycenter=38
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_d2_f_up.wav
+sample=arco\arco_d2_f_up.flac
 lokey=37
 hikey=38
 lovel=103
@@ -678,7 +678,7 @@ pitch_keycenter=38
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_d2_ff_down.wav
+sample=arco\arco_d2_ff_down.flac
 lokey=37
 hikey=38
 lovel=125
@@ -686,7 +686,7 @@ seq_length=2
 pitch_keycenter=38
 
 <region>
-sample=arco\arco_d2_ff_up.wav
+sample=arco\arco_d2_ff_up.flac
 lokey=37
 hikey=38
 lovel=125
@@ -695,7 +695,7 @@ seq_position=2
 pitch_keycenter=38
 
 <region>
-sample=arco\arco_f2_pp_down.wav
+sample=arco\arco_f2_pp_down.flac
 lokey=39
 hikey=41
 hivel=15
@@ -704,7 +704,7 @@ pitch_keycenter=41
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_f2_pp_up.wav
+sample=arco\arco_f2_pp_up.flac
 lokey=39
 hikey=41
 hivel=15
@@ -714,7 +714,7 @@ pitch_keycenter=41
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_f2_p_down.wav
+sample=arco\arco_f2_p_down.flac
 lokey=39
 hikey=41
 lovel=16
@@ -724,7 +724,7 @@ pitch_keycenter=41
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_f2_p_up.wav
+sample=arco\arco_f2_p_up.flac
 lokey=39
 hikey=41
 lovel=16
@@ -735,7 +735,7 @@ pitch_keycenter=41
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_f2_mf_down.wav
+sample=arco\arco_f2_mf_down.flac
 lokey=39
 hikey=41
 lovel=60
@@ -745,7 +745,7 @@ pitch_keycenter=41
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_f2_mf_up.wav
+sample=arco\arco_f2_mf_up.flac
 lokey=39
 hikey=41
 lovel=60
@@ -756,7 +756,7 @@ pitch_keycenter=41
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_f2_f_down.wav
+sample=arco\arco_f2_f_down.flac
 lokey=39
 hikey=41
 lovel=103
@@ -766,7 +766,7 @@ pitch_keycenter=41
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_f2_f_up.wav
+sample=arco\arco_f2_f_up.flac
 lokey=39
 hikey=41
 lovel=103
@@ -777,7 +777,7 @@ pitch_keycenter=41
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_f2_ff_down.wav
+sample=arco\arco_f2_ff_down.flac
 lokey=39
 hikey=41
 lovel=125
@@ -785,7 +785,7 @@ seq_length=2
 pitch_keycenter=41
 
 <region>
-sample=arco\arco_f2_ff_up.wav
+sample=arco\arco_f2_ff_up.flac
 lokey=39
 hikey=41
 lovel=125
@@ -794,7 +794,7 @@ seq_position=2
 pitch_keycenter=41
 
 <region>
-sample=arco\arco_a2_pp_down.wav
+sample=arco\arco_a2_pp_down.flac
 lokey=42
 hikey=45
 hivel=15
@@ -803,7 +803,7 @@ pitch_keycenter=45
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_a2_pp_up.wav
+sample=arco\arco_a2_pp_up.flac
 lokey=42
 hikey=45
 hivel=15
@@ -813,7 +813,7 @@ pitch_keycenter=45
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_a2_p_down.wav
+sample=arco\arco_a2_p_down.flac
 lokey=42
 hikey=45
 lovel=16
@@ -823,7 +823,7 @@ pitch_keycenter=45
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_a2_p_up.wav
+sample=arco\arco_a2_p_up.flac
 lokey=42
 hikey=45
 lovel=16
@@ -834,7 +834,7 @@ pitch_keycenter=45
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_a2_mf_down.wav
+sample=arco\arco_a2_mf_down.flac
 lokey=42
 hikey=45
 lovel=60
@@ -844,7 +844,7 @@ pitch_keycenter=45
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_a2_mf_up.wav
+sample=arco\arco_a2_mf_up.flac
 lokey=42
 hikey=45
 lovel=60
@@ -855,7 +855,7 @@ pitch_keycenter=45
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_a2_f_down.wav
+sample=arco\arco_a2_f_down.flac
 lokey=42
 hikey=45
 lovel=103
@@ -865,7 +865,7 @@ pitch_keycenter=45
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_a2_f_up.wav
+sample=arco\arco_a2_f_up.flac
 lokey=42
 hikey=45
 lovel=103
@@ -876,7 +876,7 @@ pitch_keycenter=45
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_a2_ff_down.wav
+sample=arco\arco_a2_ff_down.flac
 lokey=42
 hikey=45
 lovel=125
@@ -884,7 +884,7 @@ seq_length=2
 pitch_keycenter=45
 
 <region>
-sample=arco\arco_a2_ff_up.wav
+sample=arco\arco_a2_ff_up.flac
 lokey=42
 hikey=45
 lovel=125
@@ -893,7 +893,7 @@ seq_position=2
 pitch_keycenter=45
 
 <region>
-sample=arco\arco_c3_pp_down.wav
+sample=arco\arco_c3_pp_down.flac
 lokey=46
 hikey=48
 hivel=15
@@ -902,7 +902,7 @@ pitch_keycenter=48
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_c3_pp_up.wav
+sample=arco\arco_c3_pp_up.flac
 lokey=46
 hikey=48
 hivel=15
@@ -912,7 +912,7 @@ pitch_keycenter=48
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_c3_p_down.wav
+sample=arco\arco_c3_p_down.flac
 lokey=46
 hikey=48
 lovel=16
@@ -922,7 +922,7 @@ pitch_keycenter=48
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_c3_p_up.wav
+sample=arco\arco_c3_p_up.flac
 lokey=46
 hikey=48
 lovel=16
@@ -933,7 +933,7 @@ pitch_keycenter=48
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_c3_mf_down.wav
+sample=arco\arco_c3_mf_down.flac
 lokey=46
 hikey=48
 lovel=60
@@ -943,7 +943,7 @@ pitch_keycenter=48
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_c3_mf_up.wav
+sample=arco\arco_c3_mf_up.flac
 lokey=46
 hikey=48
 lovel=60
@@ -954,7 +954,7 @@ pitch_keycenter=48
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_c3_f_down.wav
+sample=arco\arco_c3_f_down.flac
 lokey=46
 hikey=48
 lovel=103
@@ -964,7 +964,7 @@ pitch_keycenter=48
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_c3_f_up.wav
+sample=arco\arco_c3_f_up.flac
 lokey=46
 hikey=48
 lovel=103
@@ -975,7 +975,7 @@ pitch_keycenter=48
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_c3_ff_down.wav
+sample=arco\arco_c3_ff_down.flac
 lokey=46
 hikey=48
 lovel=125
@@ -983,7 +983,7 @@ seq_length=2
 pitch_keycenter=48
 
 <region>
-sample=arco\arco_c3_ff_up.wav
+sample=arco\arco_c3_ff_up.flac
 lokey=46
 hikey=48
 lovel=125
@@ -992,7 +992,7 @@ seq_position=2
 pitch_keycenter=48
 
 <region>
-sample=arco\arco_e3_pp_down.wav
+sample=arco\arco_e3_pp_down.flac
 lokey=49
 hikey=52
 hivel=15
@@ -1001,7 +1001,7 @@ pitch_keycenter=52
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_e3_pp_up.wav
+sample=arco\arco_e3_pp_up.flac
 lokey=49
 hikey=52
 hivel=15
@@ -1011,7 +1011,7 @@ pitch_keycenter=52
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_e3_p_down.wav
+sample=arco\arco_e3_p_down.flac
 lokey=49
 hikey=52
 lovel=16
@@ -1021,7 +1021,7 @@ pitch_keycenter=52
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_e3_p_up.wav
+sample=arco\arco_e3_p_up.flac
 lokey=49
 hikey=52
 lovel=16
@@ -1032,7 +1032,7 @@ pitch_keycenter=52
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_e3_mf_down.wav
+sample=arco\arco_e3_mf_down.flac
 lokey=49
 hikey=52
 lovel=60
@@ -1042,7 +1042,7 @@ pitch_keycenter=52
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_e3_mf_up.wav
+sample=arco\arco_e3_mf_up.flac
 lokey=49
 hikey=52
 lovel=60
@@ -1053,7 +1053,7 @@ pitch_keycenter=52
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_e3_f_down.wav
+sample=arco\arco_e3_f_down.flac
 lokey=49
 hikey=52
 lovel=103
@@ -1063,7 +1063,7 @@ pitch_keycenter=52
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_e3_f_up.wav
+sample=arco\arco_e3_f_up.flac
 lokey=49
 hikey=52
 lovel=103
@@ -1074,7 +1074,7 @@ pitch_keycenter=52
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_e3_ff_down.wav
+sample=arco\arco_e3_ff_down.flac
 lokey=49
 hikey=52
 lovel=125
@@ -1082,7 +1082,7 @@ seq_length=2
 pitch_keycenter=52
 
 <region>
-sample=arco\arco_e3_ff_up.wav
+sample=arco\arco_e3_ff_up.flac
 lokey=49
 hikey=52
 lovel=125
@@ -1091,7 +1091,7 @@ seq_position=2
 pitch_keycenter=52
 
 <region>
-sample=arco\arco_g3_pp_up.wav
+sample=arco\arco_g3_pp_up.flac
 lokey=53
 hikey=55
 hivel=15
@@ -1100,7 +1100,7 @@ pitch_keycenter=55
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_g3_pp_down.wav
+sample=arco\arco_g3_pp_down.flac
 lokey=53
 hikey=55
 hivel=15
@@ -1110,7 +1110,7 @@ pitch_keycenter=55
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_g3_p_down.wav
+sample=arco\arco_g3_p_down.flac
 lokey=53
 hikey=55
 lovel=16
@@ -1120,7 +1120,7 @@ pitch_keycenter=55
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_g3_p_up.wav
+sample=arco\arco_g3_p_up.flac
 lokey=53
 hikey=55
 lovel=16
@@ -1131,7 +1131,7 @@ pitch_keycenter=55
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_g3_mf_down.wav
+sample=arco\arco_g3_mf_down.flac
 lokey=53
 hikey=55
 lovel=60
@@ -1141,7 +1141,7 @@ pitch_keycenter=55
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_g3_mf_up.wav
+sample=arco\arco_g3_mf_up.flac
 lokey=53
 hikey=55
 lovel=60
@@ -1152,7 +1152,7 @@ pitch_keycenter=55
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_g3_f_down.wav
+sample=arco\arco_g3_f_down.flac
 lokey=53
 hikey=55
 lovel=103
@@ -1162,7 +1162,7 @@ pitch_keycenter=55
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_g3_f_up.wav
+sample=arco\arco_g3_f_up.flac
 lokey=53
 hikey=55
 lovel=103
@@ -1173,7 +1173,7 @@ pitch_keycenter=55
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_g3_ff_down.wav
+sample=arco\arco_g3_ff_down.flac
 lokey=53
 hikey=55
 lovel=125
@@ -1181,7 +1181,7 @@ seq_length=2
 pitch_keycenter=55
 
 <region>
-sample=arco\arco_g3_ff_up.wav
+sample=arco\arco_g3_ff_up.flac
 lokey=53
 hikey=55
 lovel=125
@@ -1190,7 +1190,7 @@ seq_position=2
 pitch_keycenter=55
 
 <region>
-sample=arco\arco_a3_pp_down.wav
+sample=arco\arco_a3_pp_down.flac
 lokey=56
 hikey=57
 hivel=15
@@ -1199,7 +1199,7 @@ pitch_keycenter=57
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_a3_pp_up.wav
+sample=arco\arco_a3_pp_up.flac
 lokey=56
 hikey=57
 hivel=15
@@ -1209,7 +1209,7 @@ pitch_keycenter=57
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_a3_p_down.wav
+sample=arco\arco_a3_p_down.flac
 lokey=56
 hikey=57
 lovel=16
@@ -1219,7 +1219,7 @@ pitch_keycenter=57
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_a3_p_up.wav
+sample=arco\arco_a3_p_up.flac
 lokey=56
 hikey=57
 lovel=16
@@ -1230,7 +1230,7 @@ pitch_keycenter=57
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_a3_mf_down.wav
+sample=arco\arco_a3_mf_down.flac
 lokey=56
 hikey=57
 lovel=60
@@ -1240,7 +1240,7 @@ pitch_keycenter=57
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_a3_mf_up.wav
+sample=arco\arco_a3_mf_up.flac
 lokey=56
 hikey=57
 lovel=60
@@ -1251,7 +1251,7 @@ pitch_keycenter=57
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_a3_f_down.wav
+sample=arco\arco_a3_f_down.flac
 lokey=56
 hikey=57
 lovel=103
@@ -1261,7 +1261,7 @@ pitch_keycenter=57
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_a3_f_up.wav
+sample=arco\arco_a3_f_up.flac
 lokey=56
 hikey=57
 lovel=103
@@ -1272,7 +1272,7 @@ pitch_keycenter=57
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_a3_ff_down.wav
+sample=arco\arco_a3_ff_down.flac
 lokey=56
 hikey=57
 lovel=125
@@ -1280,7 +1280,7 @@ seq_length=2
 pitch_keycenter=57
 
 <region>
-sample=arco\arco_a3_ff_up.wav
+sample=arco\arco_a3_ff_up.flac
 lokey=56
 hikey=57
 lovel=125
@@ -1289,7 +1289,7 @@ seq_position=2
 pitch_keycenter=57
 
 <region>
-sample=arco\arco_c4_pp_down.wav
+sample=arco\arco_c4_pp_down.flac
 lokey=58
 hikey=60
 hivel=15
@@ -1297,7 +1297,7 @@ seq_length=2
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_c4_pp_up.wav
+sample=arco\arco_c4_pp_up.flac
 lokey=58
 hikey=60
 hivel=15
@@ -1306,7 +1306,7 @@ seq_position=2
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_c4_p_down.wav
+sample=arco\arco_c4_p_down.flac
 lokey=58
 hikey=60
 lovel=16
@@ -1315,7 +1315,7 @@ seq_length=2
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_c4_p_up.wav
+sample=arco\arco_c4_p_up.flac
 lokey=58
 hikey=60
 lovel=16
@@ -1325,7 +1325,7 @@ seq_position=2
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_c4_mf_down.wav
+sample=arco\arco_c4_mf_down.flac
 lokey=58
 hikey=60
 lovel=60
@@ -1334,7 +1334,7 @@ seq_length=2
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_c4_mf_up.wav
+sample=arco\arco_c4_mf_up.flac
 lokey=58
 hikey=60
 lovel=60
@@ -1344,7 +1344,7 @@ seq_position=2
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_c4_f_down.wav
+sample=arco\arco_c4_f_down.flac
 lokey=58
 hikey=60
 lovel=103
@@ -1353,7 +1353,7 @@ seq_length=2
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_c4_f_up.wav
+sample=arco\arco_c4_f_up.flac
 lokey=58
 hikey=60
 lovel=103
@@ -1363,14 +1363,14 @@ seq_position=2
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_c4_ff_down.wav
+sample=arco\arco_c4_ff_down.flac
 lokey=58
 hikey=60
 lovel=125
 seq_length=2
 
 <region>
-sample=arco\arco_c4_ff_up.wav
+sample=arco\arco_c4_ff_up.flac
 lokey=58
 hikey=60
 lovel=125
@@ -1378,7 +1378,7 @@ seq_length=2
 seq_position=2
 
 <region>
-sample=arco\arco_e4_pp_down.wav
+sample=arco\arco_e4_pp_down.flac
 lokey=61
 hikey=64
 hivel=15
@@ -1387,7 +1387,7 @@ pitch_keycenter=64
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_e4_pp_up.wav
+sample=arco\arco_e4_pp_up.flac
 lokey=61
 hikey=64
 hivel=15
@@ -1397,7 +1397,7 @@ pitch_keycenter=64
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_e4_p_down.wav
+sample=arco\arco_e4_p_down.flac
 lokey=61
 hikey=64
 lovel=16
@@ -1407,7 +1407,7 @@ pitch_keycenter=64
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_e4_p_up.wav
+sample=arco\arco_e4_p_up.flac
 lokey=61
 hikey=64
 lovel=16
@@ -1418,7 +1418,7 @@ pitch_keycenter=64
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_e4_mf_down.wav
+sample=arco\arco_e4_mf_down.flac
 lokey=61
 hikey=64
 lovel=60
@@ -1428,7 +1428,7 @@ pitch_keycenter=64
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_e4_mf_up.wav
+sample=arco\arco_e4_mf_up.flac
 lokey=61
 hikey=64
 lovel=60
@@ -1439,7 +1439,7 @@ pitch_keycenter=64
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_e4_f_down.wav
+sample=arco\arco_e4_f_down.flac
 lokey=61
 hikey=64
 lovel=103
@@ -1449,7 +1449,7 @@ pitch_keycenter=64
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_e4_f_up.wav
+sample=arco\arco_e4_f_up.flac
 lokey=61
 hikey=64
 lovel=103
@@ -1460,7 +1460,7 @@ pitch_keycenter=64
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_e4_ff_down.wav
+sample=arco\arco_e4_ff_down.flac
 lokey=61
 hikey=64
 lovel=125
@@ -1468,7 +1468,7 @@ seq_length=2
 pitch_keycenter=64
 
 <region>
-sample=arco\arco_e4_ff_up.wav
+sample=arco\arco_e4_ff_up.flac
 lokey=61
 hikey=64
 lovel=125
@@ -1477,7 +1477,7 @@ seq_position=2
 pitch_keycenter=64
 
 <region>
-sample=arco\arco_a4_pp_down.wav
+sample=arco\arco_a4_pp_down.flac
 lokey=65
 hikey=72
 hivel=15
@@ -1486,7 +1486,7 @@ pitch_keycenter=69
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_a4_pp_up.wav
+sample=arco\arco_a4_pp_up.flac
 lokey=65
 hikey=72
 hivel=15
@@ -1495,7 +1495,7 @@ pitch_keycenter=69
 amp_velcurve_15=1
 
 <region>
-sample=arco\arco_a4_p_down.wav
+sample=arco\arco_a4_p_down.flac
 lokey=65
 hikey=72
 lovel=16
@@ -1505,7 +1505,7 @@ pitch_keycenter=69
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_a4_p_up.wav
+sample=arco\arco_a4_p_up.flac
 lokey=65
 hikey=72
 lovel=16
@@ -1516,7 +1516,7 @@ pitch_keycenter=69
 amp_velcurve_59=1
 
 <region>
-sample=arco\arco_a4_mf_down.wav
+sample=arco\arco_a4_mf_down.flac
 lokey=65
 hikey=72
 lovel=60
@@ -1526,7 +1526,7 @@ pitch_keycenter=69
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_a4_mf_up.wav
+sample=arco\arco_a4_mf_up.flac
 lokey=65
 hikey=72
 lovel=60
@@ -1537,7 +1537,7 @@ pitch_keycenter=69
 amp_velcurve_102=1
 
 <region>
-sample=arco\arco_a4_f_down.wav
+sample=arco\arco_a4_f_down.flac
 lokey=65
 hikey=72
 lovel=103
@@ -1547,7 +1547,7 @@ pitch_keycenter=69
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_a4_f_up.wav
+sample=arco\arco_a4_f_up.flac
 lokey=65
 hikey=72
 lovel=103
@@ -1558,7 +1558,7 @@ pitch_keycenter=69
 amp_velcurve_124=1
 
 <region>
-sample=arco\arco_a4_ff_down.wav
+sample=arco\arco_a4_ff_down.flac
 lokey=65
 hikey=72
 lovel=125
@@ -1566,7 +1566,7 @@ seq_length=2
 pitch_keycenter=69
 
 <region>
-sample=arco\arco_a4_ff_up.wav
+sample=arco\arco_a4_ff_up.flac
 lokey=65
 hikey=72
 lovel=125
@@ -1581,14 +1581,14 @@ bend_down=-3600
 ampeg_release=0.600
 
 <region>
-sample=arco\noises\arco_noise_creak_1.wav
+sample=arco\noises\arco_noise_creak_1.flac
 lokey=84
 hikey=84
 seq_length=5
 pitch_keycenter=84
 
 <region>
-sample=arco\noises\arco_noise_creak_2.wav
+sample=arco\noises\arco_noise_creak_2.flac
 lokey=84
 hikey=84
 seq_length=5
@@ -1596,7 +1596,7 @@ seq_position=2
 pitch_keycenter=84
 
 <region>
-sample=arco\noises\arco_noise_creak_3.wav
+sample=arco\noises\arco_noise_creak_3.flac
 lokey=84
 hikey=84
 seq_length=5
@@ -1604,7 +1604,7 @@ seq_position=3
 pitch_keycenter=84
 
 <region>
-sample=arco\noises\arco_noise_creak_4.wav
+sample=arco\noises\arco_noise_creak_4.flac
 lokey=84
 hikey=84
 seq_length=5
@@ -1612,7 +1612,7 @@ seq_position=4
 pitch_keycenter=84
 
 <region>
-sample=arco\noises\arco_noise_creak_5.wav
+sample=arco\noises\arco_noise_creak_5.flac
 lokey=84
 hikey=84
 seq_length=5
@@ -1620,26 +1620,26 @@ seq_position=5
 pitch_keycenter=84
 
 <region>
-sample=arco\noises\arco_noise_creak_extra_long.wav
+sample=arco\noises\arco_noise_creak_extra_long.flac
 lokey=86
 hikey=86
 pitch_keycenter=86
 
 <region>
-sample=arco\noises\arco_noise_creak_long.wav
+sample=arco\noises\arco_noise_creak_long.flac
 lokey=85
 hikey=85
 pitch_keycenter=85
 
 <region>
-sample=arco\noises\arco_noise_extra_high_moaning_1.wav
+sample=arco\noises\arco_noise_extra_high_moaning_1.flac
 lokey=89
 hikey=89
 seq_length=2
 pitch_keycenter=89
 
 <region>
-sample=arco\noises\arco_noise_extra_high_moaning_2.wav
+sample=arco\noises\arco_noise_extra_high_moaning_2.flac
 lokey=89
 hikey=89
 seq_length=2
@@ -1647,26 +1647,26 @@ seq_position=2
 pitch_keycenter=89
 
 <region>
-sample=arco\noises\arco_noise_extra_high_screechy_extra_long.wav
+sample=arco\noises\arco_noise_extra_high_screechy_extra_long.flac
 lokey=88
 hikey=88
 pitch_keycenter=88
 
 <region>
-sample=arco\noises\arco_noise_extra_high_screechy_long.wav
+sample=arco\noises\arco_noise_extra_high_screechy_long.flac
 lokey=87
 hikey=87
 pitch_keycenter=87
 
 <region>
-sample=arco\noises\arco_noise_harmonics_1.wav
+sample=arco\noises\arco_noise_harmonics_1.flac
 lokey=105
 hikey=105
 seq_length=4
 pitch_keycenter=105
 
 <region>
-sample=arco\noises\arco_noise_harmonics_2.wav
+sample=arco\noises\arco_noise_harmonics_2.flac
 lokey=105
 hikey=105
 seq_length=4
@@ -1674,7 +1674,7 @@ seq_position=2
 pitch_keycenter=105
 
 <region>
-sample=arco\noises\arco_noise_harmonics_3.wav
+sample=arco\noises\arco_noise_harmonics_3.flac
 lokey=105
 hikey=105
 seq_length=4
@@ -1682,7 +1682,7 @@ seq_position=3
 pitch_keycenter=105
 
 <region>
-sample=arco\noises\arco_noise_harmonics_4.wav
+sample=arco\noises\arco_noise_harmonics_4.flac
 lokey=105
 hikey=105
 seq_length=4
@@ -1690,32 +1690,32 @@ seq_position=4
 pitch_keycenter=105
 
 <region>
-sample=arco\noises\arco_noise_harmonics_clean.wav
+sample=arco\noises\arco_noise_harmonics_clean.flac
 lokey=106
 hikey=107
 pitch_keycenter=106
 
 <region>
-sample=arco\noises\arco_noise_harmonics_messy.wav
+sample=arco\noises\arco_noise_harmonics_messy.flac
 lokey=107
 hikey=107
 pitch_keycenter=107
 
 <region>
-sample=arco\noises\arco_noise_high_logn.wav
+sample=arco\noises\arco_noise_high_logn.flac
 lokey=93
 hikey=93
 pitch_keycenter=93
 
 <region>
-sample=arco\noises\arco_noise_high_medium_1.wav
+sample=arco\noises\arco_noise_high_medium_1.flac
 lokey=91
 hikey=91
 seq_length=4
 pitch_keycenter=91
 
 <region>
-sample=arco\noises\arco_noise_high_medium_2.wav
+sample=arco\noises\arco_noise_high_medium_2.flac
 lokey=91
 hikey=91
 seq_length=4
@@ -1723,7 +1723,7 @@ seq_position=2
 pitch_keycenter=91
 
 <region>
-sample=arco\noises\arco_noise_high_medium_3.wav
+sample=arco\noises\arco_noise_high_medium_3.flac
 lokey=91
 hikey=91
 seq_length=4
@@ -1731,7 +1731,7 @@ seq_position=3
 pitch_keycenter=91
 
 <region>
-sample=arco\noises\arco_noise_high_medium_4.wav
+sample=arco\noises\arco_noise_high_medium_4.flac
 lokey=91
 hikey=91
 seq_length=4
@@ -1739,20 +1739,20 @@ seq_position=4
 pitch_keycenter=91
 
 <region>
-sample=arco\noises\arco_noise_high_moaning_long.wav
+sample=arco\noises\arco_noise_high_moaning_long.flac
 lokey=92
 hikey=92
 pitch_keycenter=92
 
 <region>
-sample=arco\noises\arco_noise_high_short_1.wav
+sample=arco\noises\arco_noise_high_short_1.flac
 lokey=90
 hikey=90
 seq_length=4
 pitch_keycenter=90
 
 <region>
-sample=arco\noises\arco_noise_high_short_2.wav
+sample=arco\noises\arco_noise_high_short_2.flac
 lokey=90
 hikey=90
 seq_length=4
@@ -1760,7 +1760,7 @@ seq_position=2
 pitch_keycenter=90
 
 <region>
-sample=arco\noises\arco_noise_high_short_3.wav
+sample=arco\noises\arco_noise_high_short_3.flac
 lokey=90
 hikey=90
 seq_length=4
@@ -1768,7 +1768,7 @@ seq_position=3
 pitch_keycenter=90
 
 <region>
-sample=arco\noises\arco_noise_high_short_4.wav
+sample=arco\noises\arco_noise_high_short_4.flac
 lokey=90
 hikey=90
 seq_length=4
@@ -1776,14 +1776,14 @@ seq_position=4
 pitch_keycenter=90
 
 <region>
-sample=arco\noises\arco_noise_jumpy_1.wav
+sample=arco\noises\arco_noise_jumpy_1.flac
 lokey=102
 hikey=102
 seq_length=3
 pitch_keycenter=102
 
 <region>
-sample=arco\noises\arco_noise_jumpy_2.wav
+sample=arco\noises\arco_noise_jumpy_2.flac
 lokey=102
 hikey=102
 seq_length=3
@@ -1791,7 +1791,7 @@ seq_position=2
 pitch_keycenter=102
 
 <region>
-sample=arco\noises\arco_noise_jumpy_3.wav
+sample=arco\noises\arco_noise_jumpy_3.flac
 lokey=102
 hikey=102
 seq_length=3
@@ -1799,14 +1799,14 @@ seq_position=3
 pitch_keycenter=102
 
 <region>
-sample=arco\noises\arco_noise_jumpy_4.wav
+sample=arco\noises\arco_noise_jumpy_4.flac
 lokey=103
 hikey=103
 seq_length=4
 pitch_keycenter=103
 
 <region>
-sample=arco\noises\arco_noise_jumpy_5.wav
+sample=arco\noises\arco_noise_jumpy_5.flac
 lokey=103
 hikey=103
 seq_length=4
@@ -1814,7 +1814,7 @@ seq_position=2
 pitch_keycenter=103
 
 <region>
-sample=arco\noises\arco_noise_jumpy_6.wav
+sample=arco\noises\arco_noise_jumpy_6.flac
 lokey=103
 hikey=103
 seq_length=4
@@ -1822,7 +1822,7 @@ seq_position=3
 pitch_keycenter=103
 
 <region>
-sample=arco\noises\arco_noise_jumpy_7.wav
+sample=arco\noises\arco_noise_jumpy_7.flac
 lokey=103
 hikey=103
 seq_length=4
@@ -1830,14 +1830,14 @@ seq_position=4
 pitch_keycenter=103
 
 <region>
-sample=arco\noises\arco_noise_jumpy_high_1.wav
+sample=arco\noises\arco_noise_jumpy_high_1.flac
 lokey=104
 hikey=104
 seq_length=2
 pitch_keycenter=104
 
 <region>
-sample=arco\noises\arco_noise_jumpy_high_2.wav
+sample=arco\noises\arco_noise_jumpy_high_2.flac
 lokey=104
 hikey=104
 seq_length=2
@@ -1845,14 +1845,14 @@ seq_position=2
 pitch_keycenter=104
 
 <region>
-sample=arco\noises\arco_noise_jumpy_short_1.wav
+sample=arco\noises\arco_noise_jumpy_short_1.flac
 lokey=101
 hikey=101
 seq_length=2
 pitch_keycenter=101
 
 <region>
-sample=arco\noises\arco_noise_jumpy_short_2.wav
+sample=arco\noises\arco_noise_jumpy_short_2.flac
 lokey=101
 hikey=101
 seq_length=2
@@ -1860,14 +1860,14 @@ seq_position=2
 pitch_keycenter=101
 
 <region>
-sample=arco\noises\arco_noise_moan_1.wav
+sample=arco\noises\arco_noise_moan_1.flac
 lokey=94
 hikey=94
 seq_length=4
 pitch_keycenter=94
 
 <region>
-sample=arco\noises\arco_noise_moan_2.wav
+sample=arco\noises\arco_noise_moan_2.flac
 lokey=94
 hikey=94
 seq_length=4
@@ -1875,7 +1875,7 @@ seq_position=2
 pitch_keycenter=94
 
 <region>
-sample=arco\noises\arco_noise_moan_3.wav
+sample=arco\noises\arco_noise_moan_3.flac
 lokey=94
 hikey=94
 seq_length=4
@@ -1883,7 +1883,7 @@ seq_position=3
 pitch_keycenter=94
 
 <region>
-sample=arco\noises\arco_noise_moan_4.wav
+sample=arco\noises\arco_noise_moan_4.flac
 lokey=94
 hikey=94
 seq_length=4
@@ -1891,26 +1891,26 @@ seq_position=4
 pitch_keycenter=94
 
 <region>
-sample=arco\noises\arco_noise_moan_long.wav
+sample=arco\noises\arco_noise_moan_long.flac
 lokey=95
 hikey=95
 pitch_keycenter=95
 
 <region>
-sample=arco\noises\arco_noise_moan_long_low_to_high.wav
+sample=arco\noises\arco_noise_moan_long_low_to_high.flac
 lokey=96
 hikey=96
 pitch_keycenter=96
 
 <region>
-sample=arco\noises\arco_noise_moan_long_piglike.wav
+sample=arco\noises\arco_noise_moan_long_piglike.flac
 lokey=98
 hikey=98
 seq_length=3
 pitch_keycenter=98
 
 <region>
-sample=arco\noises\arco_noise_moan_pig_long_1.wav
+sample=arco\noises\arco_noise_moan_pig_long_1.flac
 lokey=98
 hikey=98
 seq_length=3
@@ -1918,7 +1918,7 @@ seq_position=2
 pitch_keycenter=98
 
 <region>
-sample=arco\noises\arco_noise_moan_pig_long_2.wav
+sample=arco\noises\arco_noise_moan_pig_long_2.flac
 lokey=98
 hikey=98
 seq_length=3
@@ -1926,14 +1926,14 @@ seq_position=3
 pitch_keycenter=98
 
 <region>
-sample=arco\noises\arco_noise_moan_pig_short_1.wav
+sample=arco\noises\arco_noise_moan_pig_short_1.flac
 lokey=97
 hikey=97
 seq_length=2
 pitch_keycenter=97
 
 <region>
-sample=arco\noises\arco_noise_moan_pig_short_2.wav
+sample=arco\noises\arco_noise_moan_pig_short_2.flac
 lokey=97
 hikey=97
 seq_length=2
@@ -1941,13 +1941,13 @@ seq_position=2
 pitch_keycenter=97
 
 <region>
-sample=arco\noises\arco_noise_screech_doglike.wav
+sample=arco\noises\arco_noise_screech_doglike.flac
 lokey=99
 hikey=99
 pitch_keycenter=99
 
 <region>
-sample=arco\noises\arco_noise_zipperlike.wav
+sample=arco\noises\arco_noise_zipperlike.flac
 lokey=100
 hikey=100
 pitch_keycenter=100
